@@ -68,7 +68,6 @@ parser.add_argument("--dataset", type=str, default='deepddie/few_k_b_a_5_20/')
 parser.add_argument("--dataset_folder", type=str, default='data/deepddie/few_k_b_a_5_20/')
 parser.add_argument("--sub", type=str, default='kmeans_9')
 parser.add_argument("--shot", type=str, default='all', help="com/few/rare")
-parser.add_argument("--split", type=str, default='few', help="normal/few/rare")
 
 
 
