@@ -18,7 +18,7 @@ This directory includes materials for working with molecular data:
 - **drug_cluster.csv**: Contains PCA features and results of k-means, Birch, and Agglomerative clustering of drugs.
 - **drugbank_id_smiles.txt**: Contains mappings of drug `drugbank_id` to their corresponding SMILES (Simplified Molecular Input Line Entry System) representations.
 - **smiles_description.csv**: Includes the SMILES representation of drugs along with their descriptions.
-- **few_k_b_a_5_20**: Contains a dataset for few-shot learning in DDIE (Drug-Drug Interaction Extraction), split into the proportions 2:2:6.
+- **few_k_b_a_5_20**: Contains a dataset for few-shot learning in DDIE, split into the proportions 2:2:6.
 
 ### `src`
 Source code directory housing the implementation details:
