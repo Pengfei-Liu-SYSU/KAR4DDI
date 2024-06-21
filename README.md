@@ -1,4 +1,4 @@
-# Knowledge Augmentation with Reinforcement Learning for Drug-Drug Interaction Event Few-shot Predictions (KAR4DDI)
+# Dynamic Knowledge-Prior for Few-Shot Drug-Drug Interaction Events Prediction
 
 Drug-drug interaction events (DDIE) prediction is crucial for preventing adverse reactions and ensuring optimal therapeutic outcomes. However, existing methods often face challenges with imbalanced datasets, complex interaction mechanisms, and poor generalization to unknown drug combinations. To address these challenges, we propose a pioneering knowledge augmentation framework that adaptively infuses prior drug knowledge into a large language model (LLM). This framework employs reinforcement learning (RL) to refine the process of knowledge extraction and synthesis, significantly reducing the knowledge and parameter exploration space and enhancing the accuracy of the LLM for DDIE predictions.
 
